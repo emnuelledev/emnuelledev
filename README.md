@@ -36,10 +36,6 @@ Currently based in Brazil 🇧🇷, I'm always exploring new technologies and wa
 - Infra & DB: `Firebase`, `AsyncStorage`, `SQLite`, `Ubuntu`, `Azure`, `Git`
 - Others: `Figma`, `Postman`, `Linux`, `Notion`, `Trello`
 
-## 📁 Projects Coming Soon
-
-This repository will soon include selected freelance and academic projects.  
-Stay tuned for updates, and feel free to reach out if you're curious or want to collaborate!
 
 ## 📬 Contact Me
 
