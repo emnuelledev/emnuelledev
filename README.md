@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emma S.
+# 👋 Hi, I'm Emma!
 
 I'm a 22-year-old freelance developer from Brazil, focused on building clean and meaningful solutions.  
 Currently working with **Python**, **JavaScript**, **test automation**, and **mobile development** using React Native.
