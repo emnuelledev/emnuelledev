@@ -56,13 +56,13 @@ I'm particularly interested in projects that connect technical development with 
 
 ## 📊 GitHub Stats
 
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emnuelledev&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emnuelledev&layout=compact&hide_border=true&theme=transparent)
+<p align="left">
+  <img height="180" src="./profile/stats.svg" alt="Emma's GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ## 🌎 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuelle_Soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-soares-54b661382/)
 
 **Brazil → Spain · Working globally**
-
