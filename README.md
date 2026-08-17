@@ -54,36 +54,6 @@ You'll find projects involving:
 
 I'm particularly interested in projects that connect technical development with actual business problems rather than technology for technology's sake.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=emnuelledev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Emma's GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnuelledev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=emnuelledev&theme=tokyonight&hide_border=true"
-    alt="Emma's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=emnuelledev&theme=tokyo-night&hide_border=true&area=true"
-    alt="Emma's GitHub Activity Graph"
-  />
-</p>
-
 ## 🌎 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuelle_Soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-soares-54b661382/)
